@@ -1,0 +1,23 @@
+{
+  "name": "gb-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermolaevanton/gb-node.git"
+  },
+  "author": "Anton",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ermolaevanton/gb-node/issues"
+  },
+  "homepage": "https://github.com/ermolaevanton/gb-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
